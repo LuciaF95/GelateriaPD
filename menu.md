@@ -1,5 +1,7 @@
 1125521
 # Menu
-- [Banana Split](./banana_split.md)
-- [Coppa Nafta](./coppa_nafta.md)
+## Gelati:
+- [Banana Split](./gelati/banana_split.md)
+- [Coppa Nafta](./gelati/coppa_nafta.md)
+
 
